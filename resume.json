@@ -1,324 +1,212 @@
 {
-  "basics": {
-    "name": "Alfred Renn",
-    "label": "Software Engineer",
-    "image": "https://alifeee.co.uk/profile-picture.png",
-    "email": "alfredirenn@gmail.com",
-    "phone": "",
-    "url": "http://alifeee.co.uk",
-    "summary": "",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Birmingham",
-      "countryCode": "GB",
-      "region": "West Midlands"
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Sam Davis",
+      "label": "Systems Engineer",
+      "image": "https://media.licdn.com/dms/image/D4E03AQHzE1LN4zvYDQ/profile-displayphoto-shrink_800_800/0/1683797619766?e=1690416000&v=beta&t=SVgHR0MXjR4qB2BXdc8TyOXAjm97qrYc_bf9IxqNEVA",
+      "email": "sdavis8991@gmail.com",
+      "phone": "",
+      "url": "https://samdavis.uk",
+      "summary": "I have completed a three-year degree in Computer Games Programming, having developed a heavy interest in computer networking, computer systems, as well as tinkering with hardware and software.\n\nI show a high level of competency in programming and networking and enjoy problem solving. Programming experience includes C++, C#, Python, Lua.",
+      "location": {
+        "countryCode": "GB",
+        "address": "United Kingdom"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "sam-davis99",
+          "url": "https://www.linkedin.com/in/sam-davis99/"
+        }
+      ]
     },
-    "profiles": [
+    "work": [
       {
-        "network": "Blog",
-        "url": "https://blog.alifeee.co.uk"
+        "name": "Advanced",
+        "position": "System Engineer",
+        "startDate": "2023-04-30",
+        "highlights": [],
+        "summary": "",
+        "url": "https://www.linkedin.com/company/2426258",
+        "location": "Birmingham, England, United Kingdom"
       },
       {
-        "network": "LinkedIn",
-        "username": "alfredrenn",
-        "url": "https://www.linkedin.com/in/alfredrenn"
+        "name": "Advanced",
+        "position": "Service Desk Analyst",
+        "startDate": "2022-01-31",
+        "endDate": "2023-03-31",
+        "highlights": [],
+        "summary": "",
+        "url": "https://www.linkedin.com/company/2426258",
+        "location": "Birmingham, England, United Kingdom"
       },
       {
-        "network": "GitHub",
-        "username": "alifeee",
-        "url": "https://github.com/alifeee"
+        "name": "Tesco",
+        "position": "Customer Assistant",
+        "startDate": "2021-10-31",
+        "endDate": "2022-01-31",
+        "highlights": [],
+        "summary": "",
+        "url": "https://www.linkedin.com/company/3266",
+        "location": "Pitsea, England, United Kingdom"
+      },
+      {
+        "name": "STOCKVALE CATERING LIMITED",
+        "position": "Catering Assistant",
+        "startDate": "2017-03-31",
+        "endDate": "2021-10-31",
+        "highlights": [],
+        "summary": "",
+        "url": "https://www.linkedin.com/company/6564007",
+        "location": "Southend on Sea, United Kingdom"
       }
-    ]
-  },
-  "work": [
-    {
-      "name": "ByteSnap Design",
-      "company": "ByteSnap Design",
-      "position": "Software Engineer",
-      "url": "https://www.bytesnap.com/",
-      "startDate": "2022-08-22",
-      "endDate": "2023-03-03",
-      "summary": "Designed, developed, and engineered various web applications for both internal and customer projects, utilizing a range of programming languages and frameworks to build powerful software solutions.",
-      "highlights": [
-        "Utilised <b>Vue</b> and <b>TypeScript</b> to create an intuitive, user-friendly web application, using robust design patterns and best practices to ensure optimal functionality and user experience",
-        "Designed and developed a responsive, feature-rich web application using <b>Flutter</b> and <b>Dart</b>, incorporating a range of views and user-friendly interfaces for maximum ease of use",
-        "Employed <b>WPF</b> and <b>C#</b> to create a high-performance application, using <b>SQL</b> and an MVC architecture to facilitate the viewing, manipulation, and analysis of data",
-        "Streamlined the deployment process of complex code with multiple dependencies, using <b>Docker</b> and <b>GitLab</b> CI to optimise the development process and improve productivity"
-      ]
-    },
-    {
-      "name": "Durham University Physics Department",
-      "company": "Durham University Physics Department",
-      "position": "Solar Physics Research Student",
-      "url": "https://www.dur.ac.uk/qlm/",
-      "startDate": "2021-06-14",
-      "endDate": "2021-08-13",
-      "summary": "Researching novel telescope imaging techniques using quantum gases",
-      "highlights": [
-        "Developed robust code with <b>Python</b> for fabricating and analysing images from a solar telescope",
-        "Performed deep literature review to justify techniques used in the creation of said telescope",
-        "Discussed and acted upon desires and needs of telescope engineers, theorists, and observationalists"
-      ]
-    },
-    {
-      "name": "Durham University Physics Department",
-      "company": "Durham University Physics Department",
-      "position": "Content Developer",
-      "url": "https://www.durham.ac.uk/departments/academic/physics/",
-      "startDate": "2020-08-31",
-      "endDate": "2020-10-02",
-      "summary": "Developing interactive teaching content for a better online learning experience in the pandemic",
-      "highlights": [
-        "Utilised <b>Python</b> to create highly interactive learning resources for Durham physics students",
-        "Worked remotely with lecturers to deliver content tailored to their needs and desires",
-        "Organised fellow interns as a group by creating task rotas to encourage teamwork and mitigate work-duplication, establishing efficient development"
-      ]
-    },
-    {
-      "name": "Viper RF",
-      "company": "Viper RF",
-      "position": "Design Engineer (Internship)",
-      "url": "https://www.viper-rf.com/",
-      "startDate": "2019-08-12",
-      "endDate": "2019-09-20",
-      "summary": "Designing and testing real-time optimisation for an ion satellite thruster",
-      "highlights": [
-        "Programmed and debugged a real-time optimisation algorithm on a microcontroller with <b>C</b>",
-        "Provided R&D updates and creative input to problem solving",
-        "Worked on commercially sensitive and highly confidential new product developments using advanced software",
-        "Liaised directly with customers on work done with radio-frequency electronics"
-      ]
-    },
-    {
-      "name": "CRODA",
-      "company": "CRODA",
-      "position": "Chemical Engineering Maintenance Technician (Work Experience)",
-      "url": "https://www.croda.com/",
-      "startDate": "2017-06-19",
-      "endDate": "2017-06-23",
-      "summary": "Maintenance of chemical engineering equipment",
-      "highlights": [
-        "Shadowed engineering, maintenance, and instrumentation teams at a chemical-production facility",
-        "Designed hanging basket using TIG welder, requiring fast learning of techniques",
-        "Worked alongside diverse teams with a professional conduct",
-        "Gained an awareness of health and safety, commercial awareness, value for money, and customer service"
-      ]
-    },
-    {
-      "name": "New Village News",
-      "company": "New Village News",
-      "position": "Paper Boy",
-      "startDate": "2014-06-01",
-      "endDate": "2017-06-01",
-      "summary": "Delivering newspapers to local residents as a subscription service",
-      "highlights": [
-        "Demonstrated reliability and excellent timekeeping on my weekly morning paper round",
-        "Undertook additional responsibilities as required covering people's rounds last minute when needed"
-      ]
+    ],
+    "volunteer": [
+      {
+        "organization": "University of the Arts London",
+        "position": "Presenter",
+        "startDate": "2017-02-28",
+        "endDate": "2017-03-31",
+        "summary": "A technical presentation and Demonstration of Virtual Reality on behalf of UAL Chelsea.\nAlong with a group of colleagues, At Woodlands School in Basildon, I presented the uses of VR and guided people in using the systems on behalf of UAL Chelsea and SEEVIC College.",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/14684"
+      }
+    ],
+    "education": [
+      {
+        "institution": "De Montfort University",
+        "area": "Computer Games and Programming Skills",
+        "studyType": "Computer Games Programming BSc",
+        "startDate": "2018-12-31",
+        "endDate": "2021-12-31",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "SEEVIC College",
+        "area": "Creative Digital Media",
+        "studyType": "Level 3 Extended BTEC Diploma ",
+        "startDate": "2015-12-31",
+        "endDate": "2018-12-31",
+        "score": "DDD",
+        "courses": []
+      },
+      {
+        "institution": "St Clere's School",
+        "area": "",
+        "studyType": "10 GCSEs A-C, Including English Language (C) and Mathematics (A)",
+        "startDate": "2010-12-31",
+        "endDate": "2015-12-31",
+        "score": "",
+        "courses": []
+      }
+    ],
+    "awards": [],
+    "certificates": [],
+    "publications": [],
+    "skills": [
+      {
+        "name": "Analytical Skills",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Customer Relationship Management (CRM)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Computer Literacy",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Technical Support",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Local Area Network (LAN)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Computer Networking",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Packet Tracer",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Ubiquiti Networks",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Object-Oriented Programming (OOP)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Cisco Networking",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Network Engineering",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Communication",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Programming",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Cisco VoIP",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Fuzzy Logic",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "C++",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Cisco Routers",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Azure",
+        "level": "",
+        "keywords": []
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native Speaker"
+      }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [],
+    "meta": {
+      "version": "v1.0.0",
+      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
     }
-  ],
-  "volunteer": [
-    {
-      "organization": "British Heart Foundation",
-      "position": "Electrical Tester",
-      "url": "https://www.bhf.org.uk/",
-      "startDate": "2023-03-23",
-      "summary": "Testing electrical equipment for the British Heart Foundation home shop",
-      "highlights": []
-    },
-    {
-      "organization": "National Citizen Service",
-      "position": "National Citizen Service",
-      "url": "https://www.ncsyes.co.uk/",
-      "startDate": "2016-06-01",
-      "endDate": "2016-07-01",
-      "summary": "",
-      "highlights": [
-        "Outdoor activities as a team including orienteering",
-        "Organisation of charity fundraiser and litter pick as a group of young people"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Durham University",
-      "url": "https://www.durham.ac.uk/",
-      "area": "Physics",
-      "studyType": "MPhys",
-      "startDate": "2018-09-01",
-      "endDate": "2022-07-06",
-      "score": "1st (77%)",
-      "courses": [
-        "Masters Project",
-        "Atoms, Lasers and Qubits",
-        "Advanced Theoretical Physics",
-        "Advanced Astrophysics",
-        "Advanced Laboratory"
-      ]
-    },
-    {
-      "institution": "Cottingham High School and Sixth Form College",
-      "url": "https://www.cottinghamhigh.net/",
-      "area": "Physics, Mathematics, Further Mathematics",
-      "studyType": "A Level",
-      "startDate": "2016-09-01",
-      "endDate": "2018-07-06",
-      "score": "A*A*A*",
-      "courses": ["A* Physics", "A* Mathematics", "A* Further Mathematics"]
-    },
-    {
-      "institution": "Cottingham High School and Sixth Form College",
-      "url": "https://www.cottinghamhigh.net/",
-      "area": "",
-      "studyType": "GCSE",
-      "startDate": "2011-09-01",
-      "endDate": "2016-07-06",
-      "score": "6A*, 4A, 2D*",
-      "courses": ["A* Mathematics", "A English", "+ 5A*, 3A, 2 Dist*"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Florence Nightingale Award for Graphical Excellence",
-      "date": "2019-07-03",
-      "awarder": "Durham University",
-      "summary": "Awarded for the optimal presentation of quantitative data to illustrate a Helmholtz coil. Used <b>Python</b> for graphing."
-    },
-    {
-      "title": "Durham Award for Academic Excellence",
-      "date": "2019-07-03",
-      "awarder": "Durham University",
-      "summary": "Awarded for achieving over 80% in first year of university."
-    }
-  ],
-  "certificates": [],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Data Analysis",
-      "level": "",
-      "keywords": ["Python", "Statistics"]
-    },
-    {
-      "name": "Web Development",
-      "level": "",
-      "keywords": ["HTML", "CSS", "JavaScript", "Vue"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Board games",
-      "keywords": ["Founding president of Board Gaming Society at Sixth Form"]
-    },
-    {
-      "name": "Electronics",
-      "keywords": [
-        "Arduino (microcontroller and circuit board building)",
-        "PC building"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jim Mayock, Viper RF",
-      "reference": "Available on request"
-    },
-    {
-      "name": "Dr. Ifan Hughes, Durham University",
-      "reference": "Available on request"
-    },
-    {
-      "name": "Graeme Wintle, ByteSnap Design",
-      "reference": "Available on request"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Custom racing wheel",
-      "description": "Used Arduino to create a steering wheel for driving games, improving practical knowledge of electronics and coding skills, and evolving a robust toolset for microcontroller development",
-      "highlights": [],
-      "keywords": ["Arduino", "Electronics", "C", "DIY"],
-      "startDate": "2017",
-      "endDate": "2017",
-      "roles": ["Creator"],
-      "entity": "Home",
-      "type": "Hardware"
-    },
-    {
-      "name": "Real-time power optimisation for a satellite thruster",
-      "description": "Used a microcontroller to minimise power losses for a microwave generator, to be used in space satellites, improving industry knowledge and personal skills",
-      "highlights": [],
-      "keywords": ["C", "Electronics"],
-      "startDate": "2019-08-12",
-      "endDate": "2019-09-20",
-      "roles": ["Creator", "Tester"],
-      "entity": "Viper RF",
-      "type": "Hardware"
-    },
-    {
-      "name": "Optical rotation research project",
-      "description": "Investigated the phenomenon of optical rotation when light is shone through sugar solutions, including potential uses in science and industry, culminating in a 5-page scientific report",
-      "highlights": [],
-      "keywords": ["Physics", "Research", "Optics"],
-      "startDate": "2020-01-10",
-      "endDate": "2020-03-30",
-      "roles": ["Student", "Researcher"],
-      "entity": "Durham University",
-      "type": "Research"
-    },
-    {
-      "name": "Personal website",
-      "description": "Used free time over summer to learn HTML/CSS/JavaScript to create a versatile website with physics simulations, games, and a collation of many physics resources for fellow Durham students",
-      "highlights": [],
-      "keywords": ["Web Development", "HTML", "CSS", "JavaScript"],
-      "startDate": "2020-04-01",
-      "url": "https://www.alifeee.co.uk",
-      "roles": ["Creator", "Maintainer"],
-      "entity": "Home",
-      "type": "Web Development"
-    },
-    {
-      "name": "Quantum mechanics simulation",
-      "description": "Simulated a finite square well with Python to create a learning resource for physics students, requiring data manipulation and creative problem solving to get a responsive application",
-      "highlights": [],
-      "keywords": ["Python", "Physics", "Teaching"],
-      "startDate": "2020-08-31",
-      "endDate": "2020-10-02",
-      "roles": ["Creator", "Tester"],
-      "entity": "Durham University",
-      "type": "Software"
-    },
-    {
-      "name": "Atomic-force microscopy",
-      "description": "Imaged surfaces on the μm- and nm-scale to investigate the effect of carbon micro-particle size on the surface structure of glass, culminating in a 10-page scientific report",
-      "highlights": [],
-      "keywords": ["Physics", "Research", "Optics"],
-      "startDate": "2020-10-27",
-      "endDate": "2021-04-15",
-      "roles": ["Student", "Researcher"],
-      "entity": "Durham University",
-      "type": "Research"
-    },
-    {
-      "name": "Machine learning for optimising laser cooling experiments",
-      "description": "Used machine learning to optimise the cooling of atoms in a laser trap, culminating in a 33-page scientific report",
-      "highlights": [],
-      "keywords": ["Physics", "Atomic physics", "Machine Learning"],
-      "startDate": "2021-08-01",
-      "endDate": "2022-04-19",
-      "roles": ["Student", "Researcher"],
-      "entity": "Durham University",
-      "type": "Research"
-    }
-  ],
-  "meta": {
-    "theme": "kendall"
   }
-}
