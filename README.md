@@ -2,19 +2,16 @@
 
 My CV in JSON format based on <https://jsonresume.org/>.
 
-![Preview of resume online](images/resume_preview.png)
-
 ## Where does it end up?
 
-1. On [`cv.alifeee.co.uk`]
+1. On []
 1. On the [json-resume registry] (via the [gist])
-1. PDF on the [releases page] or [website]
+1. PDF on the [releases page]
 
-[`cv.alifeee.co.uk`]: https://alifeee.github.io/json-resume/
-[json-resume registry]: https://registry.jsonresume.org/alifeee
-[gist]: https://gist.github.com/alifeee/97f9ac1642b1c46cf66942c3f079a42f
-[releases page]: https://github.com/alifeee/json-resume/releases
-[website]: https://alifeee.github.io/json-resume/Alfred-Renn-CV.pdf
+
+[json-resume registry]: https://registry.jsonresume.org/SamPhoenix91
+[gist]: https://gist.github.com/SamPhoenix91/6a52847df745c25c35d8f5c76de7e9c3
+[releases page]: https://github.com/SamPhoenix91/json-resume/release
 
 ## Changing the theme
 
